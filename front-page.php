@@ -3,7 +3,7 @@
 <main>
     <div class="wrapper">
         <h1 class="text-center mb-8">GitHub Actionsってなんぞや？</h1>
-        <p>
+        <p class="mb-8">
             GitHub Actionsを「自動調理器とレシピ」に例えると<br>
             GitHub Actionsは、まるで**「最新の自動調理器」と、それを使うための「レシピ」がセットになったもの**だと思ってください。<br>
 
@@ -20,6 +20,8 @@
             料理の完成（Xserverへのデプロイ）:
             レシピ通りに自動調理器が動いて、美味しい料理（最新のWordPressテーマ）が完成し、食卓（Xserverのウェブサイト）に届けられる、というわけです。
         </p>
+
+        <p>これが見えたら、自動化成功</p>
     </div>
     
 </main>
