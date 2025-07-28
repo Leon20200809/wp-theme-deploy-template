@@ -39,19 +39,20 @@ section{
     text-align: center;
     margin: 0 auto;
 }
-.flex{
+.d-flex{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.half{
-    width: 50%;
+.text-center{
     text-align: center;
-    margin: 0 auto;
 }
-.third{
-    width: calc(100%/3);
-    /* text-align: center; */
+
+.mb-4{
+    margin-bottom: 1rem;
+}
+.mb-8{
+    margin-bottom: 2rem;
 }
 
 .site-title{
